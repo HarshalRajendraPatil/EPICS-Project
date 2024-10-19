@@ -14,7 +14,7 @@ const LandingPage = () => {
           Integrating AI-powered job matching, skill gap analysis, and adaptive
           learning pathways for personalized career development.
         </p>
-        <p className="text-lg text-gray-600 mb-8 text-center max-w-2xl">
+        <p className="text-lg text-gray-600 mb-8 text-center">
           Providing customized job and training recommendations, along with
           real-time market insights.
         </p>
